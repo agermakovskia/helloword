@@ -3,7 +3,7 @@
 
 int main ( int argc,char** argv)
 {
-    printf("hello word!\n");
-    return 0;
+    printf("AIS Hello Word!\n");
+    return 1;
 }
 
