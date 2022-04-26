@@ -9,6 +9,6 @@ int main ( int argc,char** argv)
     if (argc == 3)
         memset(p, 0x00, 0xF);
         
-    return 1;
+    return 0;
 }
 
