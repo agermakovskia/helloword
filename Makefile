@@ -1,5 +1,5 @@
 all: main
 
 main:
-	gcc main.c -o main
+	"$CC ${CFLAGS:-} main.c -o main"
         
